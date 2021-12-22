@@ -1,0 +1,13 @@
+.home{
+    flex: 4;
+    margin:0 3px;
+    padding: 0;
+   }
+
+.homeWidgets{
+    display: flex;
+}
+.productsection {
+    display: flex;
+    flex-wrap: wrap;
+    }
